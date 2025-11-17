@@ -42,7 +42,7 @@ export function LandingPage() {
                 {/* === Heading === */}
                 <div className="flex items-center justify-center w-full lg:w-[677px] lg:h-[86px] text-center">
                    <h1 className="font-momo font-bold text-white text-[30px] lg:text-[48px] leading-tight">
-    Welcome to moGGx
+    Welcome to Docket
 </h1>
 
                 </div>
