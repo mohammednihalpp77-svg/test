@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Display&family=Outfit:wght@100..900&display=swap');
+
+.font-out {
+    font-family: "Outfit", sans-serif;
+}
+
+.font-momo {
+    font-family: "Momo Trust Display", sans-serif;
+}
+
